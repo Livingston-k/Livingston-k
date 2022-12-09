@@ -6,7 +6,7 @@ Hi! I'm a Full-stack developer & educator, if you are interested in learning ful
 
 •	Twitter: [@kadduLivingston](https://twitter.com/kadduLivingston) <br>
 •	Facebook: [@kadduLivingstoneofficial](https://www.facebook.com/kadduLivingstoneofficial) <br>
-•	YouTube: [Kaddu Livingstone](https://www.youtube.com/channel/UCHz4UgeTsr-QGwoVeoeWBXQ) <br>
+•	YouTube: [@KadduLivingstone](https://www.youtube.com/channel/UCHz4UgeTsr-QGwoVeoeWBXQ) <br>
 •	Instagram: [@kaddulivingstone](https://www.instagram.com/kaddulivingstone/) <br>
 •	LinkedIn: [@kaddu-livingston](https://www.linkedin.com/in/kaddu-livingstone/) <br>
 

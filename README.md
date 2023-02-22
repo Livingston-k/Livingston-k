@@ -4,7 +4,7 @@
 
 Hi! I'm a Full-stack developer & educator, if you are interested in learning full-stack JavaScript web development, make sure that you follow me on my social media platforms below.
 
-•	Website: [Portfolio](https://kaddulivingstone.netlify.app/) <br>
+•	Website: [Portfolio Website](https://kaddulivingstone.netlify.app/) <br>
 •	Twitter: [@KadduLivingston](https://twitter.com/KadduLivingston) <br>
 •	Facebook: [@kadduLivingstoneofficial](https://www.facebook.com/kadduLivingstoneofficial) <br>
 •	YouTube: [@KadduLivingstone](https://www.youtube.com/@KadduLivingstone) <br>

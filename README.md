@@ -10,4 +10,5 @@ Hi! I'm a Full-stack developer & educator, if you are interested in learning ful
 •	YouTube: [@KadduLivingstone](https://www.youtube.com/@KadduLivingstone) <br>
 •	Instagram: [@kaddulivingstone](https://www.instagram.com/kaddulivingstone/) <br>
 •	LinkedIn: [@kaddu-livingston](https://www.linkedin.com/in/kaddu-livingstone/) <br>
+  GitLab: [@kaddulivingston](https://gitlab.com/kaddulivingston) <br>
 

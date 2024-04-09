@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Kaddu Livingstone, a passionate Computer Scien
 I am dedicated to harnessing the power of AI and ML to drive positive change in various domains. My work involves:
 
 - 🤖 Developing AI-powered healthcare, security, transportation, and business solutions.
-- 🌱 Educating and empowering others in the field of AI and ML.
+- 🌱 I post about AI, ML DL, Healthcare, Transport, Security, Agriculture, and Business make sure you follow me.
 - 📈 Collaborating with like-minded individuals and organizations to advance technological innovation.
 
 ## Connect with Me
@@ -23,7 +23,7 @@ I am dedicated to harnessing the power of AI and ML to drive positive change in 
 Feel free to connect with me on my social media platforms and explore my portfolio:
 
 - 🌐 [Portfolio Website](https://kaddulivingstone.netlify.app/)
-- 𝕏 [X (Twitter)](https://twitter.com/KadduLivingston)
+- 𝕏 [X](https://twitter.com/KadduLivingston)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaddu-livingstone/)
 - 📘 [Facebook](https://www.facebook.com/kadduLivingstoneofficial)
 - 🎥 [YouTube](https://www.youtube.com/@KadduLivingstone)

@@ -23,11 +23,11 @@ I am dedicated to harnessing the power of AI and ML to drive positive change in 
 Feel free to connect with me on my social media platforms and explore my portfolio:
 
 - 🌐 [Portfolio Website](https://kaddulivingstone.netlify.app/)
-- 🐦 [Twitter](https://twitter.com/KadduLivingston)
+- 𝕏 [X](https://twitter.com/KadduLivingston)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaddu-livingstone/)
 - 📘 [Facebook](https://www.facebook.com/kadduLivingstoneofficial)
 - 🎥 [YouTube](https://www.youtube.com/@KadduLivingstone)
 - 📸 [Instagram](https://www.instagram.com/kaddulivingstone/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaddu-livingstone/)
 - 🐙 [GitLab](https://gitlab.com/kaddulivingston)
 
 ## Let's Collaborate!

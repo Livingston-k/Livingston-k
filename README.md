@@ -7,8 +7,10 @@ Welcome to my GitHub profile! I'm Kaddu Livingstone, a passionate Computer Scien
 - 💼 Founder & CEO at [Curely AI](https://curelyai.com/)
 - 🌍 Based in Kampala, Uganda
 - 🎓 Computer Scientist
-- 🎤 Singer
+- 🤖 AI Research Engineer
 - 💡 Inventor
+- 🎤 Worship leader at Gospel truth church
+
 
 ## What I Do
 
